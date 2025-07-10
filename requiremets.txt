@@ -1,0 +1,4 @@
+langchain
+fastapi
+pydantic
+google-generativeai
